@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-center p-6 border-b w-3/4">
+  <div class="flex items-center justify-center p-6 border-b  w-3/4">
     <div class="flex items-center justify-between w-48">
       <div class="flex flex-col items-center">
         <div class="header-title font-bold text-3xl opacity-80">Weather</div>
