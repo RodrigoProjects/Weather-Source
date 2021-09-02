@@ -51,6 +51,7 @@ export default {
     methods : {
         searchWeather() {
             this.$emit('newSearchText', this.searchText)
+            this.searchText = ""
         }
     }
 };
